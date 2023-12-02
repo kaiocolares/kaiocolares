@@ -1,4 +1,24 @@
-### Olá 👋
+## 👋 Olá, Mundo!
+
+Eu sou Kaio, um entusiasta apaixonado por programação full stack. Atualmente, estou explorando o vasto universo do desenvolvimento web, aprendendo e crescendo a cada linha de código.
+
+### 🚀 O que estou fazendo:
+
+- 🌐 Estudando e praticando tecnologias front-end, como HTML, CSS, JavaScript.
+- 💻 Aprofundando meus conhecimentos em frameworks como React.
+- 🛠️ Explorando o mundo back-end com Node.js e Express.
+- 📚 Comprometido em aprender mais sobre banco de dados, APIs e arquiteturas escaláveis.
+
+### 🌱 Metas para o Futuro:
+
+- Contribuir para projetos de código aberto.
+- Aprender sobre DevOps e deployment.
+- Explorar frameworks back-end, como Django ou Spring Boot.
+
+### 💬 Vamos conversar:
+
+- 📧 Me contate: kaiocolares@gmail.com
+
 
 ### Habilidades
 
@@ -12,7 +32,11 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaiocolares&repo=kaiocolares&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaiocolares&repo=gotripbr&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens Utilizadas 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiocolares&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
