@@ -5,6 +5,7 @@ Eu sou Kaio, um entusiasta apaixonado por programação full stack. Atualmente, 
 ### 🚀 O que estou fazendo:
 
 - 🌐 Estudando e praticando tecnologias front-end, como HTML, CSS, JavaScript.
+- Estudando e praticando tecnologias e frameworks como java e spring.
 - 💻 Aprofundando meus conhecimentos em frameworks como React.
 - 🛠️ Explorando o mundo back-end com Node.js e Express.
 - 📚 Comprometido em aprender mais sobre banco de dados, APIs e arquiteturas escaláveis.
